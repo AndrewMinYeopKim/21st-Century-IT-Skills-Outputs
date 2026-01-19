@@ -1,0 +1,15 @@
+Students will design:
+
+Resume header
+
+Personal logo or monogram
+
+Tagline or personal motto
+
+Color palette & typography set
+
+Profile banner and profile image (optional but encouraged)
+Then they will upload these assets to GitHub and customize their GitHub Profile README
+
+
+keep it golden
